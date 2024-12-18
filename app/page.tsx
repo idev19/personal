@@ -18,6 +18,12 @@ export default function Home() {
           >
             个人简历
           </Link>
+          <Link 
+            href="/sudoku" 
+            className="inline-block px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors"
+          >
+            数独
+          </Link>
         </div>
       </div>
     </main>
