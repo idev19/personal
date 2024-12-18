@@ -7,10 +7,7 @@ import {
   MapPin,
   Mail,
   Phone,
-  Calendar,
-  Star,
   Server,
-  Layout,
 } from 'lucide-react';
 
 const Resume = () => {
