@@ -17,7 +17,7 @@ const Resume = () => {
       <div className="flex items-center mb-8 border-b pb-4">
         <div className="w-24 h-24 bg-gradient-to-br from-blue-200 to-blue-400 rounded-full mr-6"></div>
         <div>
-          <h1 className="text-3xl font-bold text-blue-800">张诚</h1>
+          <h1 className="text-3xl font-bold text-blue-800">XX</h1>
           <div className="flex items-center text-gray-600 space-x-4 mt-2">
             <div className="flex items-center">
               <MapPin className="mr-2 text-blue-500" size={20} />
@@ -25,19 +25,19 @@ const Resume = () => {
             </div>
             <div className="flex items-center">
               <Mail className="mr-2 text-blue-500" size={20} />
-              <span>izc9494@163.com</span>
+              <span>xxxxxxx@163.com</span>
             </div>
             <div className="flex items-center">
               <Phone className="mr-2 text-blue-500" size={20} />
-              <span>18772763719</span>
+              <span>xxxxxxxxxxx</span>
             </div>
           </div>
           <div className="flex space-x-4 mt-2">
             <div className="bg-green-100 text-green-800 px-3 py-1 rounded-full">
-              年龄：26岁
+              年龄：28岁
             </div>
             <div className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full">
-              工作年限：4年
+              工作年限：7年
             </div>
             <div className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full">
               入职时间：一周内到岗
