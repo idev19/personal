@@ -20,7 +20,7 @@ export default function Home() {
           </Link>
           <Link 
             href="/sudoku" 
-            className="inline-block px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors"
+            className="inline-block px-6 py-3 bg-orange-500 text-white rounded-lg hover:bg-orange-600 transition-colors"
           >
             数独
           </Link>
